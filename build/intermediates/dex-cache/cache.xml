@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/thiagocury/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk14/1.38/de366c3243a586eb3c0e2bcde1ed9bb1bfb985ff/bcprov-jdk14-1.38.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de366c3243a586eb3c0e2bcde1ed9bb1bfb985ff">
+        <dex dex="/home/thiagocury/AndroidStudioProjects/CCF v1.1 11 12 2016 2321/app/build/intermediates/pre-dexed/release/bcprov-jdk14-1.38_ce0d9b5b7c01fb41c29a7201472ecaacdf2e8ab7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thiagocury/.android/build-cache/166ed26bb7d2a31301f20d99ae1cc8a92de0ab4f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/thiagocury/AndroidStudioProjects/CCF v1.1 11 12 2016 2321/app/build/intermediates/pre-dexed/release/classes_763ffa3082a2c3275ffdf47644cbf5a71f04b9f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thiagocury/.android/build-cache/779ef440a5783fc1d64d6ac076083ac296758ea1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/thiagocury/AndroidStudioProjects/CCF v1.1 11 12 2016 2321/app/build/intermediates/pre-dexed/release/classes_b373f8dc19b4c440c7b72b68626f70f4973edea6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thiagocury/.android/build-cache/36451ebb9698a0433e423c84e0905247c273149f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27775d59b16610ac76f1b83693fedd9520396332">
+        <dex dex="/home/thiagocury/AndroidStudioProjects/CCF v1.1 11 12 2016 2321/app/build/intermediates/pre-dexed/release/classes_1d32eb7b8f160fb74a0f6d13d84cf1cf49c901d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thiagocury/.android/build-cache/214cfb21bf785d0563f33ccc38de5a8c4d818e7b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/home/thiagocury/AndroidStudioProjects/CCF v1.1 11 12 2016 2321/app/build/intermediates/pre-dexed/release/classes_25404739308c92da6a943b295107a3c39f6ad08b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thiagocury/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcmail-jdk14/1.38/14ff2dfec8578f5f6838c4d6a77a86789afe5382/bcmail-jdk14-1.38.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="14ff2dfec8578f5f6838c4d6a77a86789afe5382">
+        <dex dex="/home/thiagocury/AndroidStudioProjects/CCF v1.1 11 12 2016 2321/app/build/intermediates/pre-dexed/release/bcmail-jdk14-1.38_267c70e4252e686f724d5cda9fd3d72430f35324.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thiagocury/.android/build-cache/eeb83ff7db8538ac7bcb9f6d78ec8f29660a0751/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="/home/thiagocury/AndroidStudioProjects/CCF v1.1 11 12 2016 2321/app/build/intermediates/pre-dexed/release/classes_ee9bbfad669ebdb14659a10366b9f19e10759014.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thiagocury/.android/build-cache/87c6fdfe8e6349f2a16559a6399f72abb048f245/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/home/thiagocury/AndroidStudioProjects/CCF v1.1 11 12 2016 2321/app/build/intermediates/pre-dexed/release/classes_bfebe70d859de14344f0747483c05727c555fcc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thiagocury/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bctsp-jdk14/1.38/4821122f8390d15f4b5ee652621e2a2bb1f1bf16/bctsp-jdk14-1.38.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4821122f8390d15f4b5ee652621e2a2bb1f1bf16">
+        <dex dex="/home/thiagocury/AndroidStudioProjects/CCF v1.1 11 12 2016 2321/app/build/intermediates/pre-dexed/release/bctsp-jdk14-1.38_5e151e87e391186b2ad00ff8c7fdbda2a512ad8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thiagocury/.gradle/caches/modules-2/files-2.1/net.sf.opencsv/opencsv/2.3/c23708cdb9e80a144db433e23344a788a1fd6599/opencsv-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c23708cdb9e80a144db433e23344a788a1fd6599">
+        <dex dex="/home/thiagocury/AndroidStudioProjects/CCF v1.1 11 12 2016 2321/app/build/intermediates/pre-dexed/release/opencsv-2.3_2b9e3212d964715dd787168f098e11bf7280ec5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thiagocury/.android/build-cache/476a65cbed27988875180393629d897d783fecbb/output/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/thiagocury/AndroidStudioProjects/CCF v1.1 11 12 2016 2321/app/build/intermediates/pre-dexed/release/internal_impl-23.2.1_e899dd2e370bbb48a5aadd3b6da439334f9b3aef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thiagocury/.android/build-cache/e9e571a4a7861dd44ee28fe5357dc8f8adb68834/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/home/thiagocury/AndroidStudioProjects/CCF v1.1 11 12 2016 2321/app/build/intermediates/pre-dexed/release/classes_47b5a62e2e88fc4848e714650a9c801a1878f34d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thiagocury/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/thiagocury/AndroidStudioProjects/CCF v1.1 11 12 2016 2321/app/build/intermediates/pre-dexed/release/support-annotations-23.2.1_66cc64e90ac9c75e6ba4241874959866d4712558.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thiagocury/.android/build-cache/476a65cbed27988875180393629d897d783fecbb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/thiagocury/AndroidStudioProjects/CCF v1.1 11 12 2016 2321/app/build/intermediates/pre-dexed/release/classes_920a25a149b8a5b5acb8bd0245e06215f1bf678a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thiagocury/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/home/thiagocury/AndroidStudioProjects/CCF v1.1 11 12 2016 2321/app/build/intermediates/pre-dexed/release/constraint-layout-solver-1.0.0-beta4_f0879090173a8e11c63a5e8e5aafe025e22f868d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thiagocury/.gradle/caches/modules-2/files-2.1/com.itextpdf/itextpdf/5.0.6/d7b0091cc9f6862dd388180cce94a2b0f4cc19e7/itextpdf-5.0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7b0091cc9f6862dd388180cce94a2b0f4cc19e7">
+        <dex dex="/home/thiagocury/AndroidStudioProjects/CCF v1.1 11 12 2016 2321/app/build/intermediates/pre-dexed/release/itextpdf-5.0.6_af3c021d325ffba9b4942ea1cb33f2be870729a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thiagocury/.android/build-cache/7945634db7a103d2c8e57b9913bef2bff406d2b4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/thiagocury/AndroidStudioProjects/CCF v1.1 11 12 2016 2321/app/build/intermediates/pre-dexed/release/classes_439f715214d65d561222088227126cfcf0f6d2a0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thiagocury/AndroidStudioProjects/CCF v1.1 11 12 2016 2321/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="86f354c065d4ec9ef6de132ed5838d77091b0a3d">
+        <dex dex="/home/thiagocury/AndroidStudioProjects/CCF v1.1 11 12 2016 2321/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cf5b9847ed819bd416f3e780d963cd31bc4b92f6/classes.dex" />
+    </item>
+
+</items>

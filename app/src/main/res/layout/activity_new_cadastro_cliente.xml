@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_new_cadastro_cliente"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="thiagocury.eti.br.ccf.NewCadastroCliente"
+    android:background="@color/grey300">
+
+    <ScrollView
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:hint="@string/txtCódigo"
+                android:id="@+id/etIdCliente"
+                android:background="@drawable/borda_lista"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/etNomeCompleto"
+                android:hint="@string/txtNome"
+                android:inputType="textCapWords"
+                android:background="@drawable/borda_lista"
+                android:layout_margin="5dp"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/etRg"
+                android:hint="@string/txtRg"
+                android:inputType="number"
+                android:background="@drawable/borda_lista"
+                android:layout_margin="5dp" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/etCpf"
+                android:hint="@string/txtCpf"
+                android:inputType="number"
+                android:background="@drawable/borda_lista"
+                android:layout_margin="5dp" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/etEndereco"
+                android:hint="@string/txtEndereço"
+                android:inputType="textCapWords"
+                android:background="@drawable/borda_lista"
+                android:layout_margin="5dp" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/etNumero"
+                android:hint="@string/txtN"
+                android:inputType="textPersonName"
+                android:background="@drawable/borda_lista"
+                android:layout_margin="5dp" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/etBairro"
+                android:hint="@string/txtBairro"
+                android:inputType="textCapWords"
+                android:background="@drawable/borda_lista"
+                android:layout_margin="5dp" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/etCidade"
+                android:hint="@string/txtCidade"
+                android:inputType="textCapWords"
+                android:background="@drawable/borda_lista"
+                android:layout_margin="5dp" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/etUf"
+                android:hint="@string/txtUf"
+                android:inputType="textCapCharacters"
+                android:textAllCaps="true"
+                android:background="@drawable/borda_lista"
+                android:layout_margin="5dp" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/etCep"
+                android:hint="@string/txtCep"
+                android:inputType="number"
+                android:background="@drawable/borda_lista"
+                android:layout_margin="5dp" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/etTelefoneFixo"
+                android:hint="@string/txtTelefone"
+                android:inputType="phone"
+                android:background="@drawable/borda_lista"
+                android:layout_margin="5dp" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/etTelefoneCelular"
+                android:hint="@string/txtCelular"
+                android:inputType="phone"
+                android:background="@drawable/borda_lista"
+                android:layout_margin="5dp" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/etEmail"
+                android:hint="@string/txtEmail"
+                android:inputType="textEmailAddress"
+                android:background="@drawable/borda_lista"
+                android:layout_margin="5dp" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/etObs"
+                android:hint="@string/txtObs"
+                android:inputType="textMultiLine"
+                android:background="@drawable/borda_lista"
+                android:layout_margin="5dp" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/btnCadastra"
+                android:id="@+id/btnCadastrar"
+                android:background="@drawable/borda_botao"
+                android:textColor="@color/white"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginBottom="10dp"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/btnAlterar"
+                android:id="@+id/btnAlterar"
+                android:background="@drawable/borda_botao"
+                android:textColor="@color/white"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginBottom="10dp" />
+
+            <com.google.android.gms.ads.AdView
+                android:id="@+id/adViewTelaCadastro"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                ads:adSize="BANNER"
+                ads:adUnitId="@string/banner_ad_unit_id_cadastro">
+            </com.google.android.gms.ads.AdView>
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

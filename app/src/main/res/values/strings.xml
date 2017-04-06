@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">CCF</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Nome telas -->
+    <string name="title_activity_cadastro_cliente">Cadastro</string>
+    <string name="title_activity_busca_cliente">Consulta</string>
+    <string name="title_activity_sobre">Sobre</string>
+
+    <!-- Propaganda -->
+    <string name="banner_ad_unit_id_inicial">ca-app-pub-2051234629138297/3638208763</string>
+    <string name="banner_ad_unit_id_cadastro">ca-app-pub-2051234629138297/2800603965</string>
+
+    <!-- Tela Inicial -->
+    <string name="btnCadastrar">Cadastrar</string>
+    <string name="btnProcurar">Procurar</string>
+    <string name="btnSobre">Sobre</string>
+
+    <!-- Tela Cadastro -->
+    <string name="txtCódigo">Código do Funcionário</string>
+    <string name="txtNome">Nome Completo</string>
+    <string name="txtRg">RG</string>
+    <string name="txtCpf">CPF</string>
+    <string name="txtEndereço">Endereço</string>
+    <string name="txtN">N°/complemento</string>
+    <string name="txtBairro">Bairro</string>
+    <string name="txtCidade">Cidade</string>
+    <string name="txtUf">UF</string>
+    <string name="txtCep">CEP</string>
+    <string name="txtTelefone">Telefone Fixo</string>
+    <string name="txtCelular">Telefone Celular</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtObs">Observação</string>
+    <string name="btnCadastra">Cadastrar</string>
+    <string name="btnAlterar">Alterar</string>
+
+    <!-- Tela Procurar -->
+
+    <!-- Tela Sobre -->
+    <string name="so_nomeapp">Nome do App: CCF</string>
+    <string name="so_versao">Versão: 1.1</string>
+    <string name="so_desenvolvedor">Desenvolvedor Principal:\nCluster - Thiago Cury</string>
+    <string name="so_data">Ano: 2016</string>
+    <string name="so_site">Site: www.thiagocury.eti.br</string>
+    <string name="so_contato">Contato: contato@thiagocury.eti.br</string>
+    <string name="tvDesenvolvedoresParceiros">Desenvolvedores Parceiros:</string>
+    <string name="tvFilipe">Filipe Frozza</string>
+    <string name="tvMauricio">Mauricio Ray</string>
+    <string name="tvRafael">Rafael Kern</string>
+    <string name="tvThiago">Thiago Paiva</string>
+</resources>
